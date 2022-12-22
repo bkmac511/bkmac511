@@ -1,7 +1,7 @@
 ### Hi, I am Bartek 👋
 # I am a beginner front-end Developer who works with a group of friends!
 
-My stack:
+#My stack:
 -react
 -Javascript
 -a bit of TypeScript
