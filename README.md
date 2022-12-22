@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I am Bartek 👋
+# I am a beginner front-end Developer who works with a group of friends!
 
-<!--
-**bkmac511/bkmac511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My stack:
+-react
+-Javascript
+-a bit of TypeScript
+-GraphQL
+-SASS etc.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out on discord, linkedIn or via emails.
+-Discord: bkmac511#0001
+-mail: bkmac511@gmail.com
+-linkedIn: Bartosz Maciejewski
