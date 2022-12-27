@@ -8,7 +8,7 @@
 - GraphQL
 - SASS etc.
 
-#### Now mastering Flutter is my main target
+#### Now mastering Flutter is my main goal
 
 ### Feel free to reach out on discord, linkedIn or via emails.
 - Discord: bkmac511#0001
