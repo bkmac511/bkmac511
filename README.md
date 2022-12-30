@@ -18,6 +18,6 @@
 ### Version Control:
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Feel free to reach out on discord, linkedIn or via emails.
+### Feel free to reach out on discord or via email.
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) bkmac511#0001
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) bkmac511@gmail.com
